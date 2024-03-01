@@ -4,4 +4,8 @@
 
 3. Install Tailwind by its official docs, during tailwind conifg, you have to make postcss.config.cjs file, after setup continue
 
-4. 
+4. Make pages, routes, components, use flowbite-react UI with tailwind, Add commits to github for steps 
+
+5. Make header component functionality
+
+6. 
