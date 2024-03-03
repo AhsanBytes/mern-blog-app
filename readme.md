@@ -8,4 +8,10 @@
 
 5. Make header component functionality
 
-6. 
+6. make server file, add nodemon, express and run the server
+
+7. connect to db mongo db atlas, use mongoose to interact with db
+
+8. make user model
+
+9. 
