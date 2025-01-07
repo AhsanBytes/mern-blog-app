@@ -13,5 +13,3 @@
 7. connect to db mongo db atlas, use mongoose to interact with db
 
 8. make user model
-
-9. 
